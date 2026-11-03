@@ -1,0 +1,18 @@
+{
+  "repository": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated",
+  "commit": "952c6bbfd3ae2451030b7986e23284c631fc25b5",
+  "files": {
+    "README.md": {
+      "url": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated/resolve/952c6bbfd3ae2451030b7986e23284c631fc25b5/README.md",
+      "sha256": "da347d8af86e00a865bffe36586e1a113a85905a8ae6bbae0efb1f699ca0b05a"
+    },
+    "dataset_rawpairs.jsonl": {
+      "url": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated/resolve/952c6bbfd3ae2451030b7986e23284c631fc25b5/dataset_rawpairs.jsonl",
+      "sha256": "e923a36e09aef1a4076c8dba69aa508e72aea1080b568b6700a5f779e049ba64"
+    },
+    "signature.jsonl": {
+      "url": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated/resolve/952c6bbfd3ae2451030b7986e23284c631fc25b5/signature.jsonl",
+      "sha256": "490cf35b1312eeddcfac6a10e6b5601aea629f6bb901d686920248c2cb76f265"
+    }
+  }
+}

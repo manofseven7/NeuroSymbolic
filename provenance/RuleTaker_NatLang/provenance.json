@@ -1,0 +1,17 @@
+{
+  "url": "https://aristo-data-public.s3-us-west-2.amazonaws.com/ruletaker/rule-reasoning-dataset-V2020.2.5.zip",
+  "archive_sha256": "080c8bca836603d9fea040e5a242bbd281f631255ca83428b7141ebf7f3deb0c",
+  "files": {
+    "dev.jsonl": "8b2999136ddd7e41e94007470eae8923419fb180ddfdf286be17508991259ce4",
+    "meta-dev.jsonl": "c27adc1e06d8e36bdfd493dbbb43c318820b802c948d173d1762feb40c588b1b",
+    "meta-test.jsonl": "eccdbf4cd1d6d7dcca27a24b4683d922273955b28d6c52c4300bca2a4b9c6a92",
+    "meta-train.jsonl": "3fc7541ede6a8be86d6ed2500bb3a470eb62f0dc7feb2916b09015cc574dd06b",
+    "test.jsonl": "c7c183bd16a6df9ee2f6347ccc35e85eef97e3f44c1aac38be07c78367b87c56",
+    "train.jsonl": "4802b9b1983262e42931132138457f0960684b92b0c7103113878da2089a2e9b"
+  },
+  "repository_license": {
+    "url": "https://raw.githubusercontent.com/allenai/ruletaker/master/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "scope": "Software repository Apache2 notice retained;dataset-specific licensing not independently inferred from this."
+  }
+}

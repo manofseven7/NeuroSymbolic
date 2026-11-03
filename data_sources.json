@@ -1,0 +1,62 @@
+[
+  {
+    "dataset": "FOLIO_curated",
+    "path": "third_party/FOLIO_curated/README.md",
+    "url": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated/resolve/952c6bbfd3ae2451030b7986e23284c631fc25b5/README.md",
+    "sha256": "da347d8af86e00a865bffe36586e1a113a85905a8ae6bbae0efb1f699ca0b05a"
+  },
+  {
+    "dataset": "FOLIO_curated",
+    "path": "third_party/FOLIO_curated/dataset_rawpairs.jsonl",
+    "url": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated/resolve/952c6bbfd3ae2451030b7986e23284c631fc25b5/dataset_rawpairs.jsonl",
+    "sha256": "e923a36e09aef1a4076c8dba69aa508e72aea1080b568b6700a5f779e049ba64"
+  },
+  {
+    "dataset": "FOLIO_curated",
+    "path": "third_party/FOLIO_curated/signature.jsonl",
+    "url": "https://huggingface.co/datasets/DSAVlab-UNIUD/FOLIO_validation-curated/resolve/952c6bbfd3ae2451030b7986e23284c631fc25b5/signature.jsonl",
+    "sha256": "490cf35b1312eeddcfac6a10e6b5601aea629f6bb901d686920248c2cb76f265"
+  },
+  {
+    "dataset": "LogicLM_ProofWriter",
+    "path": "third_party/LogicLM_ProofWriter/dev.json",
+    "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/data/ProofWriter/dev.json",
+    "sha256": "e792b54981065c91d4aecc908be17ce9a730f2327548e6fa36717ef01e472240"
+  },
+  {
+    "dataset": "LogicLM_ProofWriter",
+    "path": "third_party/LogicLM_ProofWriter/test.json",
+    "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/data/ProofWriter/test.json",
+    "sha256": "ecb47ebdada00671e029bcd7a2fb41bfecf2a216f53b075b77816e46d6615698"
+  },
+  {
+    "dataset": "LogicLM_ProofWriter",
+    "path": "third_party/LogicLM_ProofWriter/LICENSE",
+    "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/LICENSE",
+    "sha256": "d6a756e2bdadb2806c4cba767af6f8d6d74f0f71cd8966716bb84126f6b124e0"
+  },
+  {
+    "dataset": "LogicLM_ProofWriter",
+    "path": "third_party/LogicLM_ProofWriter/README.md",
+    "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/README.md",
+    "sha256": "6e0db3804b90b626a38d3bd46310e00153ac876087927f3ca38e882ac07f24c7"
+  },
+  {
+    "dataset": "CLUTRR_external",
+    "path": "third_party/CLUTRR_external/train.csv",
+    "url": "https://raw.githubusercontent.com/kliang5/CLUTRR_huggingface_dataset/e5b496941e91abb7c319d2618a3ce96752bc4ab7/gen_train23_test2to10/train.csv",
+    "sha256": "38963d01a20789acdd38bc4a338f59070457928072f018657c9cb59e6d7447de"
+  },
+  {
+    "dataset": "CLUTRR_external",
+    "path": "third_party/CLUTRR_external/validation.csv",
+    "url": "https://raw.githubusercontent.com/kliang5/CLUTRR_huggingface_dataset/e5b496941e91abb7c319d2618a3ce96752bc4ab7/gen_train23_test2to10/validation.csv",
+    "sha256": "418d712579e6c9bb3f0e835cb0971372c06bc7816ea97c5e2ac5f24d9b896e51"
+  },
+  {
+    "dataset": "CLUTRR_external",
+    "path": "third_party/CLUTRR_external/test.csv",
+    "url": "https://raw.githubusercontent.com/kliang5/CLUTRR_huggingface_dataset/e5b496941e91abb7c319d2618a3ce96752bc4ab7/gen_train23_test2to10/test.csv",
+    "sha256": "d49c7cbe4f575b48b279313e706ef43e127bfa85b0e860db94fdeb617aea07e9"
+  }
+]

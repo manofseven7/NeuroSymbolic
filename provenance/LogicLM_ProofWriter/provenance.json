@@ -1,0 +1,22 @@
+{
+  "commit": "d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34",
+  "source": "https://github.com/teacherpeterpan/Logic-LLM",
+  "files": {
+    "dev.json": {
+      "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/data/ProofWriter/dev.json",
+      "sha256": "e792b54981065c91d4aecc908be17ce9a730f2327548e6fa36717ef01e472240"
+    },
+    "test.json": {
+      "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/data/ProofWriter/test.json",
+      "sha256": "ecb47ebdada00671e029bcd7a2fb41bfecf2a216f53b075b77816e46d6615698"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/LICENSE",
+      "sha256": "d6a756e2bdadb2806c4cba767af6f8d6d74f0f71cd8966716bb84126f6b124e0"
+    },
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/teacherpeterpan/Logic-LLM/d29f1e5e7203e8826cb9c41ba3003e43dc0b9d34/README.md",
+      "sha256": "6e0db3804b90b626a38d3bd46310e00153ac876087927f3ca38e882ac07f24c7"
+    }
+  }
+}

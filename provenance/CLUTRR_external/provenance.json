@@ -1,0 +1,29 @@
+{
+  "repository": "kliang5/CLUTRR_huggingface_dataset",
+  "commit": "e5b496941e91abb7c319d2618a3ce96752bc4ab7",
+  "config": "gen_train23_test2to10",
+  "hf_loader_commit": "a8158d1fac10864c3424d53662fe63bf7d82dd87",
+  "files": [
+    {
+      "split": "train",
+      "url": "https://raw.githubusercontent.com/kliang5/CLUTRR_huggingface_dataset/e5b496941e91abb7c319d2618a3ce96752bc4ab7/gen_train23_test2to10/train.csv",
+      "bytes": 6618113,
+      "sha256": "38963d01a20789acdd38bc4a338f59070457928072f018657c9cb59e6d7447de"
+    },
+    {
+      "split": "validation",
+      "url": "https://raw.githubusercontent.com/kliang5/CLUTRR_huggingface_dataset/e5b496941e91abb7c319d2618a3ce96752bc4ab7/gen_train23_test2to10/validation.csv",
+      "bytes": 1445724,
+      "sha256": "418d712579e6c9bb3f0e835cb0971372c06bc7816ea97c5e2ac5f24d9b896e51"
+    },
+    {
+      "split": "test",
+      "url": "https://raw.githubusercontent.com/kliang5/CLUTRR_huggingface_dataset/e5b496941e91abb7c319d2618a3ce96752bc4ab7/gen_train23_test2to10/test.csv",
+      "bytes": 1935837,
+      "sha256": "d49c7cbe4f575b48b279313e706ef43e127bfa85b0e860db94fdeb617aea07e9",
+      "downloaded_after_freeze_utc": "2026-10-29T21:09:27Z"
+    }
+  ],
+  "test_not_read": false,
+  "license_note": "Original CLUTRR repository and HF loader declare CC-BY-NC4.0; HF card says unknown. Preserve both notices and disclose mirror."
+}
